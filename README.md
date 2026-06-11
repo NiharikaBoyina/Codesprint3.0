@@ -1,2 +1,13 @@
-# Codesprint3.0
-🚀 CodeSprint 3.0 by USC.KIIT | A collection of my daily solutions, implementations, and learning progress throughout the 45-day coding challenge. Covers C programming, Data Structures, Algorithms, Recursion, Linked Lists, Sorting, Searching, Dynamic Programming, and problem-solving concepts with a focus on consistency and growth.
+# CodeSprint 3.0 by USC.KIIT
+
+This repository contains my solutions and learning journey from CodeSprint 3.0, a 45-day coding challenge organized by USC.KIIT.
+
+## Topics Covered
+
+* C Programming
+* Data Structures
+* Algorithms
+* Recursion
+* Linked Lists
+* Sorting & Searching
+* Problem Solving
